@@ -1,722 +1,808 @@
 {
-  "meta": {
-    "lastUpdated": "2026-08-26T12:55:01Z",
-    "version": 4,
-    "seenVacancyIds": [],
-    "newSinceLastScrape": []
-  },
-  "interestListings": [],
-  "companies": [
-    {
-      "id": "hsbc",
-      "name": "HSBC",
-      "sector": "finance",
-      "color": "#db0011",
-      "employerNameVariants": [
-        "HSBC Bank plc",
-        "HSBC UK Bank plc",
-        "HSBC"
-      ],
-      "careerUrl": "https://www.hsbc.com/careers/students-and-graduates/student-opportunities",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=HSBC&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 10,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": "2025-11-06",
-          "rolling": false,
-          "confidence": "confirmed",
-          "source": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346460"
-        },
-        {
-          "year": 2024,
-          "openedMonth": 10,
-          "closedMonth": 11,
-          "openedDate": "2024-10-09",
-          "closedDate": "2024-11-05",
-          "rolling": false,
-          "confidence": "confirmed",
-          "source": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346460"
-        }
-      ],
-      "programs": [
-        {
-          "id": "hsbc_relationship",
-          "name": "Relationship Management Commercial Bank Degree Apprenticeship",
-          "standard": "Level 6 - Financial services professional",
-          "location": "London",
-          "salary": null,
-          "duration": "4.5 years",
-          "customerFacing": "core",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.brightnetwork.co.uk/graduate-jobs/hsbc/relationship-management-commercial-bank-degree-apprenticeship-london-2026",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        },
-        {
-          "id": "hsbc_commercial",
-          "name": "HSBC Degree Apprenticeship - Commercial Banking",
-          "standard": "Level 6 - Financial services professional",
-          "location": "Manchester",
-          "salary": null,
-          "duration": "4.5 years",
-          "customerFacing": "core",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346460",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        }
-      ]
-    },
-    {
-      "id": "barclays",
-      "name": "Barclays",
-      "sector": "finance",
-      "color": "#00aeef",
-      "employerNameVariants": [
-        "Barclays Bank UK PLC",
-        "Barclays Bank PLC",
-        "Barclays"
-      ],
-      "careerUrl": "https://search.jobs.barclays/early-careers",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Barclays&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 9,
-          "closedMonth": 12,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": true,
-          "confidence": "confirmed",
-          "source": "https://www.brightnetwork.co.uk/graduate-jobs/barclays/uk-corporate-banking-higher-apprenticeship-programme-london-2025"
-        },
-        {
-          "year": 2024,
-          "openedMonth": 9,
-          "closedMonth": 12,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": true,
-          "confidence": "confirmed",
-          "source": "https://www.brightnetwork.co.uk/graduate-jobs/barclays/uk-corporate-banking-higher-apprenticeship-programme-london-2025"
-        }
-      ],
-      "programs": [
-        {
-          "id": "barclays_relationship",
-          "name": "Relationship & Corporate Banking",
-          "standard": "Level 6",
-          "location": "London / Birmingham",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "core",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        },
-        {
-          "id": "barclays_finance",
-          "name": "Finance & Risk",
-          "standard": "Level 6",
-          "location": "London / Glasgow",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        }
-      ]
-    },
-    {
-      "id": "goldman",
-      "name": "Goldman Sachs",
-      "sector": "finance",
-      "color": "#7399c6",
-      "employerNameVariants": [
-        "Goldman Sachs International",
-        "Goldman Sachs & Co",
-        "Goldman Sachs"
-      ],
-      "careerUrl": "https://www.goldmansachs.com/careers/students/programs",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Goldman+Sachs&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 10,
-          "closedMonth": 1,
-          "openedDate": "2025-10-01",
-          "closedDate": null,
-          "rolling": true,
-          "confidence": "confirmed",
-          "source": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices"
-        },
-        {
-          "year": 2024,
-          "openedMonth": 8,
-          "closedMonth": 11,
-          "openedDate": "2024-08-27",
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "confirmed",
-          "source": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices"
-        }
-      ],
-      "programs": [
-        {
-          "id": "goldman_ficc",
-          "name": "FICC and Equities Degree Apprentice",
-          "standard": "Level 6",
-          "location": "London / Birmingham",
-          "salary": null,
-          "duration": "4 years",
-          "customerFacing": "client",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        },
-        {
-          "id": "goldman_ops",
-          "name": "Operations Degree Apprentice",
-          "standard": "Level 6",
-          "location": "London / Birmingham",
-          "salary": null,
-          "duration": "4 years",
-          "customerFacing": "internal",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        }
-      ]
-    },
-    {
-      "id": "jpmorgan",
-      "name": "JPMorgan",
-      "sector": "finance",
-      "color": "#5d4a36",
-      "employerNameVariants": [
-        "JPMorgan Chase Bank",
-        "J.P. Morgan",
-        "JP Morgan",
-        "JPMorgan"
-      ],
-      "careerUrl": "https://www.jpmorganchase.com/careers/explore-opportunities/students-and-graduates",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=JPMorgan&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        },
-        {
-          "year": 2024,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        }
-      ],
-      "programs": [
-        {
-          "id": "jpmorgan_customer",
-          "name": "Customer Service Apprenticeship",
-          "standard": "Level 6",
-          "location": "Bournemouth",
-          "salary": null,
-          "duration": null,
-          "customerFacing": "core",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.brightnetwork.co.uk/graduate-jobs/jp-morgan/customer-service-apprenticeship-2026",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        },
-        {
-          "id": "jpmorgan_fs",
-          "name": "Financial Services Apprenticeship",
-          "standard": "Level 6",
-          "location": "Bournemouth / Glasgow",
-          "salary": null,
-          "duration": null,
-          "customerFacing": "internal",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/financial-services-apprenticeship",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        },
-        {
-          "id": "jpmorgan_fbm",
-          "name": "Finance and Business Management Apprenticeship",
-          "standard": "Level 6",
-          "location": "Bournemouth / Glasgow",
-          "salary": null,
-          "duration": null,
-          "customerFacing": "internal",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/fbm-apprenticeship",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        }
-      ]
-    },
-    {
-      "id": "morganstanley",
-      "name": "Morgan Stanley",
-      "sector": "finance",
-      "color": "#1d4f91",
-      "employerNameVariants": [
-        "Morgan Stanley & Co International",
-        "Morgan Stanley UK",
-        "Morgan Stanley"
-      ],
-      "careerUrl": "https://www.morganstanley.com/people-opportunities/students-graduates",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Morgan+Stanley&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        },
-        {
-          "year": 2024,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        }
-      ],
-      "programs": [
-        {
-          "id": "ms_banking",
-          "name": "Banking Apprenticeship Programme UK",
-          "standard": "Level 6",
-          "location": "Glasgow",
-          "salary": null,
-          "duration": "3 years",
-          "customerFacing": "internal",
-          "nameConfidence": "official",
-          "sourceUrl": "https://www.morganstanley.com/articles/uk-apprenticeship-program-on-the-job-training",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null
-        }
-      ]
-    },
-    {
-      "id": "citi",
-      "name": "Citi",
-      "sector": "finance",
-      "color": "#056dae",
-      "employerNameVariants": [
-        "Citigroup Global Markets",
-        "Citibank",
-        "Citi"
-      ],
-      "careerUrl": "https://jobs.citi.com/early-careers",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Citi&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        },
-        {
-          "year": 2024,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        }
-      ],
-      "programs": [
-        {
-          "id": "citi_markets",
-          "name": "Markets & Banking Operations",
-          "standard": "Level 6",
-          "location": "London / Belfast",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        },
-        {
-          "id": "citi_finance",
-          "name": "Finance",
-          "standard": "Level 6",
-          "location": "Belfast",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        }
-      ]
-    },
-    {
-      "id": "bofa",
-      "name": "Bank of America",
-      "sector": "finance",
-      "color": "#e31837",
-      "employerNameVariants": [
-        "Bank of America Merrill Lynch",
-        "Bank of America",
-        "Merrill Lynch"
-      ],
-      "careerUrl": "https://campus.bankofamerica.com/",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Bank+of+America&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        },
-        {
-          "year": 2024,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        }
-      ],
-      "programs": [
-        {
-          "id": "bofa_markets",
-          "name": "Global Banking & Markets Operations",
-          "standard": "Level 6",
-          "location": "London / Chester",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        },
-        {
-          "id": "bofa_finance",
-          "name": "Finance",
-          "standard": "Level 6",
-          "location": "Chester",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        }
-      ]
-    },
-    {
-      "id": "ubs",
-      "name": "UBS",
-      "sector": "finance",
-      "color": "#ec0016",
-      "employerNameVariants": [
-        "UBS AG",
-        "UBS Europe",
-        "UBS"
-      ],
-      "careerUrl": "https://www.ubs.com/global/en/careers/students-graduates.html",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=UBS&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        },
-        {
-          "year": 2024,
-          "openedMonth": 9,
-          "closedMonth": 11,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": null
-        }
-      ],
-      "programs": [
-        {
-          "id": "ubs_ops",
-          "name": "Operations & Finance",
-          "standard": "Level 6",
-          "location": "London",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        },
-        {
-          "id": "ubs_wealth",
-          "name": "Wealth Management",
-          "standard": "Level 6",
-          "location": "London",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "client",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        }
-      ]
-    },
-    {
-      "id": "lloyds",
-      "name": "Lloyds Banking Group",
-      "sector": "finance",
-      "color": "#024731",
-      "employerNameVariants": [
-        "Lloyds Banking Group",
-        "Lloyds Bank plc",
-        "Lloyds"
-      ],
-      "careerUrl": "https://www.lloydsbankinggroup.com/careers/early-careers.html",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Lloyds+Banking+Group&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2024,
-          "openedMonth": 10,
-          "closedMonth": 1,
-          "openedDate": null,
-          "closedDate": "2025-01-19",
-          "rolling": false,
-          "confidence": "confirmed",
-          "source": "https://uptree.co/opportunities/lloyds-bank/2843636991/"
-        },
-        {
-          "year": 2025,
-          "openedMonth": 10,
-          "closedMonth": 1,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "estimated",
-          "source": "https://uptree.co/opportunities/lloyds-bank/2843636991/"
-        }
-      ],
-      "programs": [
-        {
-          "id": "lloyds_banking",
-          "name": "Banking & Relationship Management",
-          "standard": "Level 6",
-          "location": "London / Halifax",
-          "salary": null,
-          "duration": "3 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "core",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        },
-        {
-          "id": "lloyds_finance",
-          "name": "Finance",
-          "standard": "Level 6",
-          "location": "Edinburgh",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        }
-      ]
-    },
-    {
-      "id": "natwest",
-      "name": "NatWest",
-      "sector": "finance",
-      "color": "#5a287d",
-      "employerNameVariants": [
-        "National Westminster Bank",
-        "NatWest Group",
-        "NatWest"
-      ],
-      "careerUrl": "https://jobs.natwestgroup.com/pages/early-careers",
-      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=NatWest&levelIds=6&distanceType=England",
-      "historicalCycles": [
-        {
-          "year": 2025,
-          "openedMonth": 3,
-          "closedMonth": 6,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "confirmed",
-          "source": "https://jobs.natwestgroup.com/pages/degree-apprenticeships"
-        },
-        {
-          "year": 2024,
-          "openedMonth": 3,
-          "closedMonth": 6,
-          "openedDate": null,
-          "closedDate": null,
-          "rolling": false,
-          "confidence": "confirmed",
-          "source": "https://jobs.natwestgroup.com/pages/degree-apprenticeships"
-        }
-      ],
-      "programs": [
-        {
-          "id": "natwest_commercial",
-          "name": "Commercial Banking",
-          "standard": "Level 6",
-          "location": "London / Manchester",
-          "salary": null,
-          "duration": "3 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "core",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        },
-        {
-          "id": "natwest_finance",
-          "name": "Finance",
-          "standard": "Level 6",
-          "location": "Edinburgh",
-          "salary": null,
-          "duration": "4 years",
-          "status": "not_open",
-          "closingDate": null,
-          "applyUrl": null,
-          "govVacancyId": null,
-          "firstSeen": null,
-          "lastSeen": null,
-          "customerFacing": "internal",
-          "nameConfidence": "unconfirmed",
-          "sourceUrl": null
-        }
-      ]
-    }
-  ]
+    "meta":  {
+                 "lastUpdated":  "2026-08-29T22:26:39Z",
+                 "version":  4,
+                 "seenVacancyIds":  [
+
+                                    ],
+                 "newSinceLastScrape":  [
+
+                                        ]
+             },
+    "interestListings":  [
+
+                         ],
+    "companies":  [
+                      {
+                          "id":  "hsbc",
+                          "name":  "HSBC",
+                          "sector":  "finance",
+                          "color":  "#db0011",
+                          "employerNameVariants":  [
+                                                       "HSBC Bank plc",
+                                                       "HSBC UK Bank plc",
+                                                       "HSBC"
+                                                   ],
+                          "careerUrl":  "https://www.hsbc.com/careers/students-and-graduates/student-opportunities",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=HSBC\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  10,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  "2025-11-06",
+                                                       "rolling":  false,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346460"
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  10,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  "2024-10-09",
+                                                       "closedDate":  "2024-11-05",
+                                                       "rolling":  false,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346460"
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "hsbc_relationship",
+                                               "name":  "Relationship Management Commercial Bank Degree Apprenticeship",
+                                               "standard":  "Level 6 - Financial services professional",
+                                               "location":  "London",
+                                               "salary":  null,
+                                               "duration":  "4.5 years",
+                                               "customerFacing":  "core",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.brightnetwork.co.uk/graduate-jobs/hsbc/relationship-management-commercial-bank-degree-apprenticeship-london-2026",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           },
+                                           {
+                                               "id":  "hsbc_commercial",
+                                               "name":  "HSBC Degree Apprenticeship - Commercial Banking",
+                                               "standard":  "Level 6 - Financial services professional",
+                                               "location":  "Manchester",
+                                               "salary":  null,
+                                               "duration":  "4.5 years",
+                                               "customerFacing":  "core",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000346460",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:25Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  2,
+                                            "openSignal":  false,
+                                            "note":  ""
+                                        }
+                      },
+                      {
+                          "id":  "barclays",
+                          "name":  "Barclays",
+                          "sector":  "finance",
+                          "color":  "#00aeef",
+                          "employerNameVariants":  [
+                                                       "Barclays Bank UK PLC",
+                                                       "Barclays Bank PLC",
+                                                       "Barclays"
+                                                   ],
+                          "careerUrl":  "https://search.jobs.barclays/early-careers",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Barclays\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  12,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  true,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://www.brightnetwork.co.uk/graduate-jobs/barclays/uk-corporate-banking-higher-apprenticeship-programme-london-2025"
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  12,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  true,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://www.brightnetwork.co.uk/graduate-jobs/barclays/uk-corporate-banking-higher-apprenticeship-programme-london-2025"
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "barclays_relationship",
+                                               "name":  "Relationship \u0026 Corporate Banking",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Birmingham",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "core",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           },
+                                           {
+                                               "id":  "barclays_finance",
+                                               "name":  "Finance \u0026 Risk",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Glasgow",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:26Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  11,
+                                            "openSignal":  false,
+                                            "note":  ""
+                                        }
+                      },
+                      {
+                          "id":  "goldman",
+                          "name":  "Goldman Sachs",
+                          "sector":  "finance",
+                          "color":  "#7399c6",
+                          "employerNameVariants":  [
+                                                       "Goldman Sachs International",
+                                                       "Goldman Sachs \u0026 Co",
+                                                       "Goldman Sachs"
+                                                   ],
+                          "careerUrl":  "https://www.goldmansachs.com/careers/students/programs",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Goldman+Sachs\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  10,
+                                                       "closedMonth":  1,
+                                                       "openedDate":  "2025-10-01",
+                                                       "closedDate":  null,
+                                                       "rolling":  true,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices"
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  8,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  "2024-08-27",
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices"
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "goldman_ficc",
+                                               "name":  "FICC and Equities Degree Apprentice",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Birmingham",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "customerFacing":  "client",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           },
+                                           {
+                                               "id":  "goldman_ops",
+                                               "name":  "Operations Degree Apprentice",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Birmingham",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/degree-apprentices",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:27Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  4,
+                                            "openSignal":  false,
+                                            "note":  ""
+                                        }
+                      },
+                      {
+                          "id":  "jpmorgan",
+                          "name":  "JPMorgan",
+                          "sector":  "finance",
+                          "color":  "#5d4a36",
+                          "employerNameVariants":  [
+                                                       "JPMorgan Chase Bank",
+                                                       "J.P. Morgan",
+                                                       "JP Morgan",
+                                                       "JPMorgan"
+                                                   ],
+                          "careerUrl":  "https://www.jpmorganchase.com/careers/explore-opportunities/students-and-graduates",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=JPMorgan\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "jpmorgan_customer",
+                                               "name":  "Customer Service Apprenticeship",
+                                               "standard":  "Level 6",
+                                               "location":  "Bournemouth",
+                                               "salary":  null,
+                                               "duration":  null,
+                                               "customerFacing":  "core",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.brightnetwork.co.uk/graduate-jobs/jp-morgan/customer-service-apprenticeship-2026",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           },
+                                           {
+                                               "id":  "jpmorgan_fs",
+                                               "name":  "Financial Services Apprenticeship",
+                                               "standard":  "Level 6",
+                                               "location":  "Bournemouth / Glasgow",
+                                               "salary":  null,
+                                               "duration":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.jpmorganchase.com/careers/explore-opportunities/programs/financial-services-apprenticeship",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           },
+                                           {
+                                               "id":  "jpmorgan_fbm",
+                                               "name":  "Finance and Business Management Apprenticeship",
+                                               "standard":  "Level 6",
+                                               "location":  "Bournemouth / Glasgow",
+                                               "salary":  null,
+                                               "duration":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.jpmorganchase.com/careers/explore-opportunities/programs/fbm-apprenticeship",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:28Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  3,
+                                            "openSignal":  false,
+                                            "note":  ""
+                                        }
+                      },
+                      {
+                          "id":  "morganstanley",
+                          "name":  "Morgan Stanley",
+                          "sector":  "finance",
+                          "color":  "#1d4f91",
+                          "employerNameVariants":  [
+                                                       "Morgan Stanley \u0026 Co International",
+                                                       "Morgan Stanley UK",
+                                                       "Morgan Stanley"
+                                                   ],
+                          "careerUrl":  "https://www.morganstanley.com/people-opportunities/students-graduates",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Morgan+Stanley\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "ms_banking",
+                                               "name":  "Banking Apprenticeship Programme UK",
+                                               "standard":  "Level 6",
+                                               "location":  "Glasgow",
+                                               "salary":  null,
+                                               "duration":  "3 years",
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "official",
+                                               "sourceUrl":  "https://www.morganstanley.com/articles/uk-apprenticeship-program-on-the-job-training",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:29Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  1,
+                                            "openSignal":  false,
+                                            "note":  ""
+                                        }
+                      },
+                      {
+                          "id":  "citi",
+                          "name":  "Citi",
+                          "sector":  "finance",
+                          "color":  "#056dae",
+                          "employerNameVariants":  [
+                                                       "Citigroup Global Markets",
+                                                       "Citibank",
+                                                       "Citi"
+                                                   ],
+                          "careerUrl":  "https://jobs.citi.com/early-careers",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Citi\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "citi_markets",
+                                               "name":  "Markets \u0026 Banking Operations",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Belfast",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           },
+                                           {
+                                               "id":  "citi_finance",
+                                               "name":  "Finance",
+                                               "standard":  "Level 6",
+                                               "location":  "Belfast",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:30Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  10,
+                                            "openSignal":  false,
+                                            "note":  ""
+                                        }
+                      },
+                      {
+                          "id":  "bofa",
+                          "name":  "Bank of America",
+                          "sector":  "finance",
+                          "color":  "#e31837",
+                          "employerNameVariants":  [
+                                                       "Bank of America Merrill Lynch",
+                                                       "Bank of America",
+                                                       "Merrill Lynch"
+                                                   ],
+                          "careerUrl":  "https://campus.bankofamerica.com/",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Bank+of+America\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "bofa_markets",
+                                               "name":  "Global Banking \u0026 Markets Operations",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Chester",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           },
+                                           {
+                                               "id":  "bofa_finance",
+                                               "name":  "Finance",
+                                               "standard":  "Level 6",
+                                               "location":  "Chester",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:32Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  0,
+                                            "openSignal":  false,
+                                            "note":  "page loaded but no apprenticeship text - likely JavaScript-rendered"
+                                        }
+                      },
+                      {
+                          "id":  "ubs",
+                          "name":  "UBS",
+                          "sector":  "finance",
+                          "color":  "#ec0016",
+                          "employerNameVariants":  [
+                                                       "UBS AG",
+                                                       "UBS Europe",
+                                                       "UBS"
+                                                   ],
+                          "careerUrl":  "https://www.ubs.com/global/en/careers/students-graduates.html",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=UBS\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  9,
+                                                       "closedMonth":  11,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  null
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "ubs_ops",
+                                               "name":  "Operations \u0026 Finance",
+                                               "standard":  "Level 6",
+                                               "location":  "London",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           },
+                                           {
+                                               "id":  "ubs_wealth",
+                                               "name":  "Wealth Management",
+                                               "standard":  "Level 6",
+                                               "location":  "London",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "client",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:34Z",
+                                            "reachable":  false,
+                                            "httpStatus":  403,
+                                            "mentions":  0,
+                                            "openSignal":  false,
+                                            "note":  "blocked - check manually in the browser"
+                                        }
+                      },
+                      {
+                          "id":  "lloyds",
+                          "name":  "Lloyds Banking Group",
+                          "sector":  "finance",
+                          "color":  "#024731",
+                          "employerNameVariants":  [
+                                                       "Lloyds Banking Group",
+                                                       "Lloyds Bank plc",
+                                                       "Lloyds"
+                                                   ],
+                          "careerUrl":  "https://www.lloydsbankinggroup.com/careers/early-careers.html",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Lloyds+Banking+Group\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  10,
+                                                       "closedMonth":  1,
+                                                       "openedDate":  null,
+                                                       "closedDate":  "2025-01-19",
+                                                       "rolling":  false,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://uptree.co/opportunities/lloyds-bank/2843636991/"
+                                                   },
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  10,
+                                                       "closedMonth":  1,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "estimated",
+                                                       "source":  "https://uptree.co/opportunities/lloyds-bank/2843636991/"
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "lloyds_banking",
+                                               "name":  "Banking \u0026 Relationship Management",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Halifax",
+                                               "salary":  null,
+                                               "duration":  "3 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "core",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           },
+                                           {
+                                               "id":  "lloyds_finance",
+                                               "name":  "Finance",
+                                               "standard":  "Level 6",
+                                               "location":  "Edinburgh",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:34Z",
+                                            "reachable":  true,
+                                            "httpStatus":  200,
+                                            "mentions":  0,
+                                            "openSignal":  false,
+                                            "note":  "page loaded but no apprenticeship text - likely JavaScript-rendered"
+                                        }
+                      },
+                      {
+                          "id":  "natwest",
+                          "name":  "NatWest",
+                          "sector":  "finance",
+                          "color":  "#5a287d",
+                          "employerNameVariants":  [
+                                                       "National Westminster Bank",
+                                                       "NatWest Group",
+                                                       "NatWest"
+                                                   ],
+                          "careerUrl":  "https://jobs.natwestgroup.com/pages/early-careers",
+                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=NatWest\u0026levelIds=6\u0026distanceType=England",
+                          "historicalCycles":  [
+                                                   {
+                                                       "year":  2025,
+                                                       "openedMonth":  3,
+                                                       "closedMonth":  6,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://jobs.natwestgroup.com/pages/degree-apprenticeships"
+                                                   },
+                                                   {
+                                                       "year":  2024,
+                                                       "openedMonth":  3,
+                                                       "closedMonth":  6,
+                                                       "openedDate":  null,
+                                                       "closedDate":  null,
+                                                       "rolling":  false,
+                                                       "confidence":  "confirmed",
+                                                       "source":  "https://jobs.natwestgroup.com/pages/degree-apprenticeships"
+                                                   }
+                                               ],
+                          "programs":  [
+                                           {
+                                               "id":  "natwest_commercial",
+                                               "name":  "Commercial Banking",
+                                               "standard":  "Level 6",
+                                               "location":  "London / Manchester",
+                                               "salary":  null,
+                                               "duration":  "3 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "core",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           },
+                                           {
+                                               "id":  "natwest_finance",
+                                               "name":  "Finance",
+                                               "standard":  "Level 6",
+                                               "location":  "Edinburgh",
+                                               "salary":  null,
+                                               "duration":  "4 years",
+                                               "status":  "not_open",
+                                               "closingDate":  null,
+                                               "applyUrl":  null,
+                                               "govVacancyId":  null,
+                                               "firstSeen":  null,
+                                               "lastSeen":  null,
+                                               "customerFacing":  "internal",
+                                               "nameConfidence":  "unconfirmed",
+                                               "sourceUrl":  null
+                                           }
+                                       ],
+                          "siteCheck":  {
+                                            "checkedAt":  "2026-08-29T23:26:36Z",
+                                            "reachable":  false,
+                                            "httpStatus":  403,
+                                            "mentions":  0,
+                                            "openSignal":  false,
+                                            "note":  "blocked - check manually in the browser"
+                                        }
+                      }
+                  ]
 }
