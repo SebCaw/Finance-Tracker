@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-29T22:26:39Z",
+    "lastUpdated": "2026-08-31T15:55:59Z",
     "version": 4,
     "seenVacancyIds": [],
     "newSinceLastScrape": []
@@ -78,7 +78,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:25Z",
+        "checkedAt": "2026-08-31T15:55:45Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 2,
@@ -140,7 +140,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:26Z",
+        "checkedAt": "2026-08-31T15:55:47Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 11,
@@ -219,7 +219,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:27Z",
+        "checkedAt": "2026-08-31T15:55:47Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 4,
@@ -316,7 +316,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:28Z",
+        "checkedAt": "2026-08-31T15:55:48Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 3,
@@ -378,7 +378,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:29Z",
+        "checkedAt": "2026-08-31T15:55:49Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 1,
@@ -440,7 +440,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:30Z",
+        "checkedAt": "2026-08-31T15:55:50Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 10,
@@ -502,7 +502,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:32Z",
+        "checkedAt": "2026-08-31T15:55:51Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 0,
@@ -564,7 +564,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:34Z",
+        "checkedAt": "2026-08-31T15:55:52Z",
         "reachable": false,
         "httpStatus": 403,
         "mentions": 0,
@@ -626,7 +626,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:34Z",
+        "checkedAt": "2026-08-31T15:55:52Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 0,
@@ -705,7 +705,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-08-29T23:26:36Z",
+        "checkedAt": "2026-08-31T15:55:53Z",
         "reachable": false,
         "httpStatus": 403,
         "mentions": 0,
